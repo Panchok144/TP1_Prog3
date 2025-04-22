@@ -1,0 +1,22 @@
+body{
+
+    background-color: black;
+    color: white;
+}
+#datos-personales{
+    background-color: rebeccapurple;
+    border-radius: 80px;
+    padding: 30px;
+    width: 50%;
+    transform: translate(80%);
+    
+}
+.sobremi{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 20px;
+    border-radius: 60px;
+    margin: 20px auto; 
+             
+    
+}
