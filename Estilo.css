@@ -10,15 +10,16 @@ body{
 }
 #perfil {
     display: flex;
-    align-items: flex-start;
+    align-items:center;
    
   
     
 }
 
 #perfil img {
-    width: 1000px; 
+    width: 700px; 
     border-radius: 40px;
+    margin-bottom: 20px;
     
 }
 
@@ -26,9 +27,9 @@ body{
     background-color: rebeccapurple;
     color: white;
     border-radius: 80px;
-    padding: 40px; 
-    width: 50%; 
-    font-size: 60px;
+    padding: 50px; 
+    width: 60%; 
+    font-size: 30px;
     align-items: start;
     transform: translate(10%); 
     
@@ -38,11 +39,11 @@ body{
     height: auto;
     background-color: rebeccapurple;
     color: white;
-    padding: 30px;
+    padding: 20px;
     border-radius: 40px;
-   
+    margin-bottom: 30px;
     width: 70%;
-    font-size: 55px;         
+    font-size: 30px;         
 }
 div strong{
 
