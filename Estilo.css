@@ -3,8 +3,14 @@ body{
     background-color: black;
     color: white;
 }
+#Titulo{
+    transform: translate(50%);
+    font-size: 80px;
+}
 #datos-personales{
-    height: auto;
+    height: 500px;
+    display: flexbox;
+    align-items:flex-start;
     background-color: rebeccapurple;
     border-radius: 80px;
     padding: 30px;
