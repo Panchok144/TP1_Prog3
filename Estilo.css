@@ -56,3 +56,9 @@ div span{
 
 
 }
+
+#datos{
+
+    font-size: 30px;
+    transform: translate(10%); 
+}
