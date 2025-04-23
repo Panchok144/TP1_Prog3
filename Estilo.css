@@ -6,17 +6,29 @@ body{
 #Titulo{
     transform: translate(50%);
     font-size: 80px;
+
 }
-#datos-personales{
-    height: 500px;
-    display: flexbox;
-    align-items:flex-start;
+#perfil {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px;
+    
+}
+
+#perfil img {
+    width: 800px; 
+    height: auto;
+    border-radius: 40px;
+}
+
+#datos-personales {
     background-color: rebeccapurple;
-    border-radius: 80px;
+    border-radius: 40px;
     padding: 30px;
-    width: 50%;
-    transform: translate(90%);
-    font-size: 30px;
+    width: 500px;
+    font-size: 60px;
+    color: white;
     
 }
 .sobremi{
@@ -40,11 +52,4 @@ div span{
     text-decoration: underline;
 
 
-}
-imgg{
-    width: 300px;
-  height: auto;
-  border-radius: 20px;
-   
-      
 }
