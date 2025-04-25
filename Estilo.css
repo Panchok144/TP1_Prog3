@@ -82,5 +82,17 @@ div span{
 
 
 }
+a{
+    color: white;
+}
+a:visited{
+
+    color: white;
+}
+a:hover{
+
+    color: yellow;
+}
+
 
 
